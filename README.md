@@ -7,7 +7,7 @@ A minimalist and user-friendly Markdown editor with advanced editing features an
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 🔗 Live Demo
-🚀 **[View Live Demo](https://TheMurad.github.io/markdown-live-preview)**
+🚀 **[View Live Demo](https://murad-ismayil.github.io/markdown-live-preview/)**
 
 ## ✨ Features
 
@@ -33,4 +33,4 @@ To run the project on your local machine:
    ```bash
     npm run dev
 
-Made by TheMurad
+Made by Murad I.
